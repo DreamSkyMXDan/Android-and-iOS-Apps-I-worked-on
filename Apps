@@ -1,7 +1,7 @@
 For Trimble:
 
-D2Link Android: MVC pattern, implemented lots of new features, resolved lots of technical challenges such as multithreading issue and 
-memory management on Android, enhanced the performance, saved battery life and removed memory leak issue, etc..
+D2Link Android: MVC pattern, implemented lots of new features, resolved lots of technical challenges such as multithreading
+issue and memory management on Android, enhanced the performance, saved battery life and removed memory leak issue, etc..
 http://d2linktrial.tmwsystems.com/dshen/d2.htm
 
 D2Link iOS: MVC pattern, brought up the app from the groundup, fullfilled the customer's specification, beat the customer's
