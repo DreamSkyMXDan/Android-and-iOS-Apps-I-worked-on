@@ -1,0 +1,19 @@
+For Trimble:
+
+D2Link Android: MVC pattern, implemented lots of new features, resolved lots of technical challenges such as multithreading issue and 
+memory management on Android, enhanced the performance, saved battery life and removed memory leak issue, etc..
+http://d2linktrial.tmwsystems.com/dshen/d2.htm
+
+D2Link iOS: MVC pattern, brought up the app from the groundup, fullfilled the customer's specification, beat the customer's
+expectation, implemented lots of features, learned Swift and Objective C fast.
+https://itunes.apple.com/us/app/tmw-d2link/id1050202131?mt=8
+
+For Yahoo:
+
+Yahoo Search Android: RxJava, Dependency Injection, MVP: 
+built new UI, built new SDK, implemented mobile interface to consume new RESTFul API, implemented new features.
+https://play.google.com/store/apps/details?id=com.yahoo.mobile.client.android.search&hl=en
+
+Yahoo Search iOS: 
+implemented new features:
+https://itunes.apple.com/us/app/yahoo-search/id361071600?mt=8
