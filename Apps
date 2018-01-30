@@ -1,3 +1,14 @@
+For Yahoo:
+
+Yahoo Search Android: RxJava, Dependency Injection, MVP: 
+built new UI, built new SDK, implemented mobile interface to consume new RESTFul API, implemented new features.
+https://play.google.com/store/apps/details?id=com.yahoo.mobile.client.android.search&hl=en
+
+Yahoo Search iOS: 
+implemented new features:
+https://itunes.apple.com/us/app/yahoo-search/id361071600?mt=8
+
+
 For Trimble:
 
 D2Link Android: MVC pattern, implemented lots of new features, resolved lots of technical challenges such as multithreading
@@ -15,12 +26,4 @@ https://play.google.com/store/apps/details?id=com.app.TMW.dxy.tmw&hl=en
 iOS app: 
 https://itunes.apple.com/us/app/tmw-go/id953980474?mt=8
 
-For Yahoo:
 
-Yahoo Search Android: RxJava, Dependency Injection, MVP: 
-built new UI, built new SDK, implemented mobile interface to consume new RESTFul API, implemented new features.
-https://play.google.com/store/apps/details?id=com.yahoo.mobile.client.android.search&hl=en
-
-Yahoo Search iOS: 
-implemented new features:
-https://itunes.apple.com/us/app/yahoo-search/id361071600?mt=8
